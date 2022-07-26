@@ -1,6 +1,4 @@
-# DIO-Projetos
-
-## Desafios realizados no Bootcamp Santander Fullstack Developer
+# Desafios realizados no Bootcamp Santander Fullstack Developer
 - Desafio de projeto sobre Git/GitHub
 
 ## Links úteis
